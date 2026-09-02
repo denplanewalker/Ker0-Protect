@@ -1,3 +1,9 @@
-## [1.1.0] 2026-02-09
+## [1.1.0] - 2026-02-09
 ### Added
-- Added custom anti-tamper
+- Custom anti-tamper protection system
+- Real-time tampering detection
+- Memory integrity verification
+
+### Security
+- Enhanced protection against code injection attacks
+- Improved detection accuracy for unauthorized modifications
